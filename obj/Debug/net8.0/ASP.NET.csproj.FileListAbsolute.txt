@@ -1,0 +1,14 @@
+c:\DEV\PROJECTS\ASP.NET\bin\Debug\net8.0\ASP.NET.exe
+C:\DEV\PROJECTS\ASP.NET\bin\Debug\net8.0\ASP.NET.deps.json
+C:\DEV\PROJECTS\ASP.NET\bin\Debug\net8.0\ASP.NET.runtimeconfig.json
+c:\DEV\PROJECTS\ASP.NET\bin\Debug\net8.0\ASP.NET.dll
+c:\DEV\PROJECTS\ASP.NET\bin\Debug\net8.0\ASP.NET.pdb
+c:\DEV\PROJECTS\ASP.NET\obj\Debug\net8.0\ASP.NET.GeneratedMSBuildEditorConfig.editorconfig
+c:\DEV\PROJECTS\ASP.NET\obj\Debug\net8.0\ASP.NET.AssemblyInfoInputs.cache
+c:\DEV\PROJECTS\ASP.NET\obj\Debug\net8.0\ASP.NET.AssemblyInfo.cs
+c:\DEV\PROJECTS\ASP.NET\obj\Debug\net8.0\ASP.NET.csproj.CoreCompileInputs.cache
+c:\DEV\PROJECTS\ASP.NET\obj\Debug\net8.0\ASP.NET.dll
+c:\DEV\PROJECTS\ASP.NET\obj\Debug\net8.0\refint\ASP.NET.dll
+c:\DEV\PROJECTS\ASP.NET\obj\Debug\net8.0\ASP.NET.pdb
+C:\DEV\PROJECTS\ASP.NET\obj\Debug\net8.0\ASP.NET.genruntimeconfig.cache
+C:\DEV\PROJECTS\ASP.NET\obj\Debug\net8.0\ref\ASP.NET.dll
