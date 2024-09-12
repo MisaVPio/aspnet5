@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\DEV\\PROJECTS\\ASP.NET\\ASP.NET.csproj": {}
+    "c:\\DEV\\PROJECTS\\ASP.NET\\aspnet5\\ASP.NET.csproj": {}
   },
   "projects": {
-    "c:\\DEV\\PROJECTS\\ASP.NET\\ASP.NET.csproj": {
+    "c:\\DEV\\PROJECTS\\ASP.NET\\aspnet5\\ASP.NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\DEV\\PROJECTS\\ASP.NET\\ASP.NET.csproj",
+        "projectUniqueName": "c:\\DEV\\PROJECTS\\ASP.NET\\aspnet5\\ASP.NET.csproj",
         "projectName": "ASP.NET",
-        "projectPath": "c:\\DEV\\PROJECTS\\ASP.NET\\ASP.NET.csproj",
+        "projectPath": "c:\\DEV\\PROJECTS\\ASP.NET\\aspnet5\\ASP.NET.csproj",
         "packagesPath": "C:\\Users\\MisaV\\.nuget\\packages\\",
-        "outputPath": "c:\\DEV\\PROJECTS\\ASP.NET\\obj\\",
+        "outputPath": "c:\\DEV\\PROJECTS\\ASP.NET\\aspnet5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MisaV\\AppData\\Roaming\\NuGet\\NuGet.Config",

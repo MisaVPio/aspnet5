@@ -7,7 +7,7 @@ namespace ASP.NET
     {
 
         // CURSO ASP.NET 5 - RICARDO MAROQUIO
-        // AULA 1 - 26:57m
+        // AULA 2 - 4:37m
         static void Main(string[] args)
         
         {

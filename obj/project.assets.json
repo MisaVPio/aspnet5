@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DEV\\PROJECTS\\ASP.NET\\ASP.NET.csproj",
+      "projectUniqueName": "C:\\DEV\\PROJECTS\\ASP.NET\\aspnet5\\ASP.NET.csproj",
       "projectName": "ASP.NET",
-      "projectPath": "C:\\DEV\\PROJECTS\\ASP.NET\\ASP.NET.csproj",
+      "projectPath": "C:\\DEV\\PROJECTS\\ASP.NET\\aspnet5\\ASP.NET.csproj",
       "packagesPath": "C:\\Users\\MisaV\\.nuget\\packages\\",
-      "outputPath": "C:\\DEV\\PROJECTS\\ASP.NET\\obj\\",
+      "outputPath": "C:\\DEV\\PROJECTS\\ASP.NET\\aspnet5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MisaV\\AppData\\Roaming\\NuGet\\NuGet.Config",
